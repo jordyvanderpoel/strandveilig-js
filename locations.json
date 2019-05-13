@@ -1,0 +1,338 @@
+[
+   {
+      "id":"1",
+      "name":"Schiermonnikoog (SOOlgd)",
+      "lat":"53.49927910575520",
+      "lang":"6.185388565063470",
+   },
+   {
+      "id":"2",
+      "name":"Ameland Nes (ANElgd)",
+      "lat":"53.4604596107217",
+      "lang":"5.77631950378418"
+   },
+   {
+      "id":"3",
+      "name":"Ameland Buren (ABUlgd)",
+      "lat":"53.463091",
+      "lang":"5.834432"
+   },
+   {
+      "id":"4",
+      "name":"Ameland Ballum (ABAlgd)",
+      "lat":"53.460050795539900",
+      "lang":"5.68516731262207"
+   },
+   {
+      "id":"5",
+      "name":"Ameland Hollum (AHOlgd)",
+      "lat":"53.45036583492660",
+      "lang":"5.614721775054930"
+   },
+   {
+      "id":"6",
+      "name":"Terschelling Formerum (TSPlgd)",
+      "lat":"53.408150431616300",
+      "lang":"5.300087928771970"
+   },
+   {
+      "id":"7",
+      "name":"Terschelling Midsland (TSPlgd)",
+      "lat":"53.40692246375870",
+      "lang":"5.2820634841918900"
+   },
+   {
+      "id":"8",
+      "name":"Terschelling West (TSPlgd)",
+      "lat":"53.40185672165440",
+      "lang":"5.253653526306150"
+   },
+   {
+      "id":"9",
+      "name":"Vlieland Camping (VLIlgd)",
+      "lat":"53.305800706437100",
+      "lang":"5.081756114959710"
+   },
+   {
+      "id":"10",
+      "name":"Vlieland Badhuys (VLIlgd)",
+      "lat":"53.304544141492300",
+      "lang":"5.052316188812250"
+   },
+   {
+      "id":"11",
+      "name":"Texel (TXKrbs)",
+      "lat":"53.10783499747670",
+      "lang":"4.764804840087890"
+   },
+   {
+      "id":"12",
+      "name":"Den Helder (DHErbs)",
+      "lat":"52.90458",
+      "lang":"4.713167"
+   },
+   {
+      "id":"13",
+      "name":"Callantsoog (CALrbs)",
+      "lat":"52.83787666492630",
+      "lang":"4.691205024719230"
+   },
+   {
+      "id":"14",
+      "name":"Sint Maartenszee (STZrbs)",
+      "lat":"52.79432849510410",
+      "lang":"4.672558307647700"
+   },
+   {
+      "id":"15",
+      "name":"Petten (PETrbs)",
+      "lat":"52.77275873047250",
+      "lang":"4.658267498016350"
+   },
+   {
+      "id":"16",
+      "name":"Schoorl (SRLrbs)",
+      "lat":"52.717734722807500",
+      "lang":"4.639019966125480"
+   },
+   {
+      "id":"17",
+      "name":"Bergen (BGNrbs)",
+      "lat":"52.66029859379780",
+      "lang":"4.6276044845581000"
+   },
+   {
+      "id":"18",
+      "name":"Egmond (EAZrbs)",
+      "lat":"52.61834438864600",
+      "lang":"4.618828296661370"
+   },
+   {
+      "id":"19",
+      "name":"Castricum (CASrbs)",
+      "lat":"52.556968353778100",
+      "lang":"4.606297016143790"
+   },
+   {
+      "id":"20",
+      "name":"Heemskerk (HSKrbs)",
+      "lat":"52.524237611322400",
+      "lang":"4.596512317657470"
+   },
+   {
+      "id":"21",
+      "name":"Wijk aan Zee (WAZrbs)",
+      "lat":"52.49370347860130",
+      "lang":"4.584023952484130"
+   },
+   {
+      "id":"22",
+      "name":"IJmuiden (IJMrbs)",
+      "lat":"52.45590478715950",
+      "lang":"4.554026126861570"
+   },
+   {
+      "id":"23",
+      "name":"Bloemendaal (BLDrbs)",
+      "lat":"52.4040945640241",
+      "lang":"4.5432329177856400"
+   },
+   {
+      "id":"24",
+      "name":"Zandvoort (ZVTrbs)",
+      "lat":"52.37680431732940",
+      "lang":"4.525895118713370"
+   },
+   {
+      "id":"25",
+      "name":"Noordwijk aan Zee (NAZrbs)",
+      "lat":"52.243883941202300",
+      "lang":"4.427919387817380"
+   },
+   {
+      "id":"26",
+      "name":"Katwijk aan Zee (KAZrbs)",
+      "lat":"52.20655471581030",
+      "lang":"4.394102096557610"
+   },
+   {
+      "id":"27",
+      "name":"Wassenaar (WASrbs)",
+      "lat":"52.16382422414700",
+      "lang":"4.348268508911130"
+   },
+   {
+      "id":"28",
+      "name":"Scheveningen (SCHrbs)",
+      "lat":"52.10597801932310",
+      "lang":"4.266901016235350"
+   },
+   {
+      "id":"29",
+      "name":"Monster (MNSrbs)",
+      "lat":"52.030264290974300",
+      "lang":"4.162917137145990"
+   },
+   {
+      "id":"30",
+      "name":"s-Gravenzande (SGZrbs)",
+      "lat":"52.011566735329800",
+      "lang":"4.140622615814200"
+   },
+   {
+      "id":"31",
+      "name":"Hoek van Holland (HVHrbs)",
+      "lat":"51.988500937449800",
+      "lang":"4.104573726654050"
+   },
+   {
+      "id":"32",
+      "name":"Rotterdam (RTDrbs)",
+      "lat":"51.929977331678600",
+      "lang":"3.979024887084960"
+   },
+   {
+      "id":"33",
+      "name":"Rockanje (RKJrbs)",
+      "lat":"51.86999943248500",
+      "lang":"4.049384593963620"
+   },
+   {
+      "id":"34",
+      "name":"Hellevoetsluis (HVSrbs)",
+      "lat":"51.84243308284850",
+      "lang":"4.0753161907196000"
+   },
+   {
+      "id":"35",
+      "name":"Ouddorp (OUDrbs)",
+      "lat":"51.827685",
+      "lang":"3.918089"
+   },
+   {
+      "id":"37",
+      "name":"Westerschouwen (WSCrbs)",
+      "lat":"51.67058565775660",
+      "lang":"3.702821731567380"
+   },
+   {
+      "id":"38",
+      "name":"Brouwersdam (BRDrbs)",
+      "lat":"51.763052",
+      "lang":"3.851871"
+   },
+   {
+      "id":"39",
+      "name":"Scharendijke (SHDrbs)",
+      "lat":"51.740888617",
+      "lang":"3.821407556"
+   },
+   {
+      "id":"41",
+      "name":"Renesse (RENrbs)",
+      "lat":"51.74118093063290",
+      "lang":"3.764415979385370"
+   },
+   {
+      "id":"42",
+      "name":"Banjaardstrand (BJDrbs)",
+      "lat":"51.59360207121280",
+      "lang":"3.6600351333618100"
+   },
+   {
+      "id":"43",
+      "name":"Vrouwenplder \/ Neeltje Jans (VWPrbs)",
+      "lat":"51.58863",
+      "lang":"3.619362"
+   },
+   {
+      "id":"45",
+      "name":"Oostkapelle (OOSrbs)",
+      "lat":"51.57978981915060",
+      "lang":"3.5330915451049800"
+   },
+   {
+      "id":"46",
+      "name":"Domburg (DBGrbs)",
+      "lat":"51.56608007464030",
+      "lang":"3.4925365447998000"
+   },
+   {
+      "id":"47",
+      "name":"Noordduine (NDUrbs)",
+      "lat":"51.5530866767921",
+      "lang":"3.465607166290280"
+   },
+   {
+      "id":"48",
+      "name":"Westkapelle (WEKrbs)",
+      "lat":"51.5255134425896",
+      "lang":"3.4373044967651300"
+   },
+   {
+      "id":"49",
+      "name":"Zoutelande (ZOUrbs)",
+      "lat":"51.4990723023823",
+      "lang":"3.482966423034660"
+   },
+   {
+      "id":"50",
+      "name":"Dishoek (DISrbs)",
+      "lat":"51.47240196119370",
+      "lang":"3.5161828994750900"
+   },
+   {
+      "id":"51",
+      "name":"Vlissingen (VSNrbs)",
+      "lat":"51.44060032308870",
+      "lang":"3.5694462060928300"
+   },
+   {
+      "id":"52",
+      "name":"Sluis (SLSrbs)",
+      "lat":"51.39385044556540",
+      "lang":"3.457517623901360"
+   },
+   {
+      "id":"53",
+      "name":"Hoorn (HRNrbs)",
+      "lat":"52.641136425926100",
+      "lang":"5.047316551208490"
+   },
+   {
+      "id":"54",
+      "name":"Naarden (NRDrbs)",
+      "lat":"52.318225290129100",
+      "lang":"5.143774151802060"
+   },
+   {
+      "id":"55",
+      "name":"Almere (ALMrbs)",
+      "lat":"52.33317562599870",
+      "lang":"5.212170481681820"
+   },
+   {
+      "id":"56",
+      "name":"Hoofdkantoor KNRM",
+      "lat":"52.99164389",
+      "lang":"3.63647461"
+   },
+   {
+      "id":"57",
+      "name":"Kustwachtcentrum Den Helder",
+      "lat":"53.1731192",
+      "lang":"3.63647461"
+   },
+   {
+      "id":"58",
+      "name":"Hoofdkantoor Reddingsbrigade Nederland",
+      "lat":"53.0823815",
+      "lang":"3.63647461"
+   },
+   {
+      "id":"59",
+      "name":"Monitor",
+      "lat":"52.9009061",
+      "lang":"3.63647461"
+   }
+]
