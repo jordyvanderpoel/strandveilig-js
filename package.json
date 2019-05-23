@@ -1,0 +1,22 @@
+{
+  "name": "strandveilig-js",
+  "version": "0.1.0",
+  "description": "Strandveilig-js provides an implementation of the Strandveilig API.",
+  "main": "src/strandveilig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordyvanderpoel/strandveilig-js.git"
+  },
+  "keywords": [
+    "strandveilig"
+  ],
+  "author": "jordyvanderpoel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jordyvanderpoel/strandveilig-js/issues"
+  },
+  "homepage": "https://github.com/jordyvanderpoel/strandveilig-js#readme"
+}
